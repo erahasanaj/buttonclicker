@@ -1,0 +1,56 @@
+.d-flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: cursive;
+}
+nav{
+    border: 1px;
+    background-color: rgb(176, 175, 175);
+    /* //padding: 0px 20%; */
+    margin: 0px 20%;
+}
+nav button{
+    background-color: rgb(69, 69, 255);
+    color: white;
+}
+.ninjasOne{
+    border:2px black solid;
+    margin: 10px 10%;
+    padding: 10px 10px;
+}
+.ninjasOne button{
+    background-color: rgb(255, 179, 14);
+    display: flex;
+}
+.ads{
+    border:2px black solid;
+    margin: 10px 15px;
+    padding: 10px 10px;
+
+}
+#main{
+    align-items: start;
+    padding: 20px 20%;
+    margin: 10px 10px;
+}
+.ads button{
+    background-color: rgb(58, 145, 58);
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 45px;
+    padding-top: 3px;
+}
+.d-flex input{
+    border: 2px black solid;
+}
+
+
+
+
+
+
+
+
+
+
